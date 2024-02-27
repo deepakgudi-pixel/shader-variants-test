@@ -1,6 +1,6 @@
-# custom-vertex-fragment-shader
+# fragment shader variants on a model 
 
-<img src ="https://github.com/deepakgudi-pixel/custom-vertex-frag-shader/blob/main/plane.gif">
+<img src ="https://github.com/deepakgudi-pixel/shader-variants-test/blob/main/shader.gif">
 
 <strong><em>Vertex shaders and fragment shaders</em></strong>
 <p>You can specify two different types of shaders for each material: <p>
